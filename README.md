@@ -27,7 +27,7 @@
 
 ## Availability
 
-This module is **not yet available to buy**. It is a commercial product and is coming soon. To be notified when it is released, or to ask for details, [get in touch](https://www.threecommerce.it/contatti?utm_source=github&utm_medium=readme&utm_campaign=magento2-subscription).
+This module is **not yet available to buy**. It is a commercial product and is coming soon. To be notified when it is released, or to ask for details, use the [product page](https://www.threecommerce.it/abbonamenti-ordini-ricorrenti-magento-2?utm_source=github&utm_medium=readme&utm_campaign=magento2-subscription) or [get in touch](https://www.threecommerce.it/contatti?utm_source=github&utm_medium=readme&utm_campaign=magento2-subscription).
 
 ## Configuration
 
