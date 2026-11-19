@@ -2,7 +2,7 @@
 
 **Subscribe and save** for Magento 2 and Mage-OS: customers choose a delivery frequency on the product page, pay the first order with a card that is saved, and every next order is created and charged automatically, at the subscription price set by the merchant.
 
-**Compatibility:** Magento Open Source / Adobe Commerce 2.4.4+ · Mage-OS 3.x – 4.x · PHP 8.2 – 8.4 · Frontend templates target Hyvä
+**Compatibility:** Magento Open Source / Adobe Commerce 2.4.4+ · Mage-OS 3.x – 4.x · PHP 8.2 – 8.5 · Frontend templates target Hyvä
 **License:** commercial · coming soon
 
 ## Features
@@ -21,7 +21,7 @@
 ## Requirements
 
 - Magento Open Source / Adobe Commerce 2.4.4+ or Mage-OS
-- PHP 8.2 – 8.4
+- PHP 8.2 – 8.5
 - A payment gateway with **saved cards (Magento Vault)** enabled, for example Braintree. Other gateways can be connected with a dedicated adapter.
 - Package `threecommerce/m2-base` (installed automatically by Composer)
 
